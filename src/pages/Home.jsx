@@ -79,7 +79,7 @@ export const Home = () => {
           </div>
 
           <h1 className="text-center font-serif text-2xl md:text-3xl text-[#6B4E37] mb-4 tracking-wide">
-            Langkahkan Gaya dengan Elegan
+            Novyra
           </h1>
           <p className="text-center text-sm text-[#8B7D6B] mb-12 tracking-widest uppercase">
             Bogor, Indonesia
