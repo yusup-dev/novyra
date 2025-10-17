@@ -29,7 +29,7 @@ const LINKS = [
   {
     id: 'whatsapp',
     title: 'Chat Admin di WhatsApp',
-    url: 'https://wa.me/6285161310317',
+    url: 'https://wa.me/6285117703173',
     icon: MessageCircle,
     description: 'Dapatkan bantuan dan konsultasi langsung',
   },
